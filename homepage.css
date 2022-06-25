@@ -153,6 +153,10 @@ h1 {
     font-size: 3rem;
     color: black;
   }
+
+ #about {
+   text-align: justify;
+}
   
   #missao {
   font-size:  2rem;
